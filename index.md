@@ -1,3 +1,8 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
@@ -11,5 +16,6 @@ var myVar = "Hello, world!";
 #### H4 header
 ##### H5 header
 ###### H6 header
+
 
 
